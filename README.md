@@ -13,9 +13,11 @@
 </p>
 <br>
 <p>
-  - 홈페이지 확인하기
+  - 홈페이지 확인하기 :
   <br>
-  <a href="https://judiking1.cafe24.com/wavve/">https://judiking1.cafe24.com/wavve/</a>
+  1. <a href="https://judiking1.github.io/wavve/">https://judiking1.github.io/wavve/</a>
+  <br>
+  2. <a href="https://judiking1.cafe24.com/wavve/">https://judiking1.cafe24.com/wavve/</a>
 </p>
 <p>
   - API는 해당 주소를 사용했습니다.
