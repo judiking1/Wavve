@@ -21,7 +21,8 @@
   2. (위 링크 실행 안될시) https://judiking1.cafe24.com/wavve/
 </p>
 
-![image](https://github.com/judiking1/wavve/assets/110409369/787534f5-2e74-4278-87f0-5e869451d948)
+![image](https://github.com/judiking1/wavve/assets/110409369/b5091818-d08d-45a6-8b7b-93cc55f2521e)
+
 ![image](https://github.com/judiking1/wavve/assets/110409369/94d3a749-20d3-4be9-a829-d985d7e73b5b)
 
 
