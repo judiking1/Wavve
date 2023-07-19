@@ -19,7 +19,7 @@
 
 
 <p>
-  - React version:  "react": "^17.0.2"
+  - React version: 17.0.2
 </p>
 
 
