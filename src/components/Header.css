@@ -1,0 +1,82 @@
+header {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background-color: #1b1b1b;
+    z-index: 20;
+}
+header nav:first-child {
+    height: 34px;
+    border-bottom: 1px solid #2f2f2f;
+}
+.snb {
+    text-align: center;
+
+}
+.snb ul{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: end;
+    font-size: 12px;
+    color: #a5a5a5;
+}
+.snb ul li {
+    margin-right: 10px;
+    line-height: 34px;
+}
+.snb ul li:last-child {
+    margin-right: 0;
+}
+.snb ul li::after {
+    content: "|";
+    color: #2f2f2f;
+    width: 1px;
+    height: 10px;
+    margin-left: 10px;
+}
+.snb ul li:last-child::after {
+    display: none;
+}
+
+.gnb {
+    height: 74px;
+    line-height: 74px;
+    content: "";
+    display: block;
+    clear: both;
+}
+.gnb .logo {
+    width: 108px;
+    height: 74px;
+    padding-top: 25px;
+    float: left;
+    margin-right: 78px;
+}
+.gnb .logo img{
+    width: 100%;
+    height: 24px;
+}
+
+.gnb .menu {
+    float: left;
+}
+.gnb .menu li {
+    font-size: 20px;
+    padding: 0 10px;
+    margin-right: 22px;
+    letter-spacing: -1px;
+    color: #a5a5a5;
+    float: left;
+}
+.gnb .menu .currentMenu {
+    color: white;
+}
+.gnb .menu li:last-child {
+    margin-right: 0;
+}
+.gnb .search {
+    font-size: 20px;
+    font-weight: 300;
+    float: right;
+    color: #a5a5a5;
+}

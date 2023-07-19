@@ -1,0 +1,43 @@
+.wavveon {
+    position: absolute;
+    right: 0;
+    top: 10px;
+    height: 40px;
+    font-size: 0;
+    display: flex;
+}
+
+.footer_logo {
+    width: 94px;
+    height: 38px;
+    margin-right: 1px;
+    font-size: 0;
+    line-height: 38px;
+    text-align: center;
+    background-color: #252525;
+}
+ .wavveon select {
+    display: inline-block;
+    vertical-align: middle;
+    width: 225px;
+    height: 38px;
+    padding-left: 13px;
+    margin-right: 10px;
+    line-height: 32px;
+    color: #a5a5a5;
+    border: 1px solid #252525;
+    background: #252525 96% 50% no-repeat;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+.footer_sns {
+    display: inline-block;
+    vertical-align: middle;
+    width: 74px;
+}
+.footer_sns a {
+    width: 32px;
+    height: 32px;
+    padding: 2px;
+}

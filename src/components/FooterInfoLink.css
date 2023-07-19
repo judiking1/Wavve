@@ -1,0 +1,19 @@
+.info_link {
+    height: 40px;
+    margin-top: 10px;
+    color: #717171;
+    font-size: 14px;
+    line-height: 40px;
+}
+.info_link ul {
+    display: flex;
+}
+.info_link ul li {
+    margin-right: 24px;
+}
+.info_link ul li:last-child {
+    margin-right: 0;
+}
+.info_link ul li a:hover {
+    color: #1351F9;
+}

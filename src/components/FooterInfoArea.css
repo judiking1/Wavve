@@ -1,0 +1,38 @@
+
+.info_area {
+    color: #717171;
+    font-size: 12px;
+    line-height: 20px;
+    margin-bottom: 88px;
+    letter-spacing: -1px;
+}
+.info_area a:hover {
+    color: #1351F9;
+}
+.info_area span {
+    display: inline-block;
+    border-right: 1px solid #717171;
+    padding-right: 6px;
+    margin-right: 6px;
+    line-height: 11px;
+}
+.info_area .last {
+    border: none;
+}
+.info_area .info-link {
+    text-decoration: underline;
+}
+.info_area address {
+    display: inline-block;
+    border-right: 1px solid #717171;
+    padding-right: 6px;
+    margin-right: 6px;
+    line-height: 11px;
+    margin-left: 0;
+    font-style: normal;
+}
+.info_area .copyright {
+    display: block;
+    margin-top: 10px;
+    border: none;
+}

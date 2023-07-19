@@ -1,0 +1,73 @@
+.favorite {
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+.favorite .section_title {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    margin-bottom: 32px;
+}
+.favorite h1 {
+    font-size: 24px;
+}
+.favorite h2 {
+    color: #a5a5a5;
+}
+.favorite h2 i {
+    margin-left: 8px;
+}
+
+
+.subSwiper [class^="swiper-button-"]{
+    background: rgba(0, 0, 0, 0.3);
+    width: 30px;
+}
+.subSwiper [class^="swiper-button-"]::after {
+    font-size: 20px;
+    color: white;
+}
+.subSwiper .swiper-button-next {
+    right: 0;
+}
+.subSwiper .swiper-button-prev {
+    left: 0;
+}
+
+.top20 {
+    height: 400px;
+}
+.top20 .swiper-slide {
+    background: transparent;
+    overflow: visible;
+    align-items: start;
+    border-radius: 0;
+}
+
+
+.subSwiper .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 360px;
+    object-fit: fill;
+    transition: all 0.3s;
+}
+.subSwiper .swiper-slide img:hover {
+    transform: scale(1.1);
+}
+
+.top20 .swiper-slide .img_container {
+    width: 100%;
+    height: 360px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.top20 .swiper-slide .rank {
+    font-family: "LeferiPoint-BlackObliqueA";
+    position: absolute;
+    left: 5%;
+    bottom:0;
+    font-size: 68px;
+    z-index: 20;
+}
