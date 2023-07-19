@@ -17,7 +17,7 @@
   <br>
   1. <a href="https://judiking1.github.io/wavve/">https://judiking1.github.io/wavve/</a>
   <br>
-  2. <a href="https://judiking1.cafe24.com/wavve/">https://judiking1.cafe24.com/wavve/</a>
+  2. (위 링크 실행 안될시) <a href="https://judiking1.cafe24.com/wavve/">https://judiking1.cafe24.com/wavve/</a>
 </p>
 <p>
   - API는 해당 주소를 사용했습니다.
